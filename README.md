@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sepehr Shapouri
 - 👀 I’m interested in javascript and frontend web develompent
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript and Im looking forward to learn React.js!
 
 
 <!---
