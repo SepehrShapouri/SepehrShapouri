@@ -1,16 +1,14 @@
+
+
+###
 <h2 align="center">Sepehr Shapouri</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sepehrshapouri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Sepehrshapouri&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sepehrshapouri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="130" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ###
 
@@ -41,9 +39,12 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="130" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM2ODQ4NTUsIm5iZiI6MTcwMzY4NDU1NSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjI3VDEzNDIzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFmNGJlNjc2ZjUyNjRmMzI4NGZhNTQ2Y2I4ZDdkZDg1OGU5YzRjOTIyZGY2ZTgyYzBlY2Y3NzkzODFhMGI0NjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.RmRE23PPCDRp64Zck3toxHiZs0GSiQwXCg7WKG9ABAc"  />
 
-<img src="https://raw.githubusercontent.com/Sepehrshapouri/Sepehrshapouri/output/snake.svg" alt="Snake animation" />
+###
 
+(https://github.com/sepehrshapouri/sepehrshapouri/blob/output/github-contribution-grid-snake.svg)
+
+###
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
