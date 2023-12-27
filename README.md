@@ -42,7 +42,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/sepehrshapouri/sepehrshapouri/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/SepehrShapouri/SepehrShapouri/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 ###
