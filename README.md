@@ -1,6 +1,3 @@
-
-
-###
 <h2 align="center">Sepehr Shapouri</h2>
 
 ###
@@ -43,10 +40,6 @@
 
 ###
 
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
+<img src="https://raw.githubusercontent.com/Sepehrshapouri/Sepehrshapouri/output/snake.svg" alt="Snake animation" />
 
 ###
-###
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
