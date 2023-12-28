@@ -42,5 +42,4 @@
 
 <br clear="both">
 
-<img src="https://platane.github.io/snk/"/>
 ###
