@@ -1,5 +1,5 @@
 # 💫 About Me:
-A dedicated software engineer,thrilled to learn and contribute!
+A dedicated software engineer,thrilled to learn and contribute!<br/>
 🔭 I’m currently mastering Next.js<br>🧑🏽‍💻 I’m looking to collaborate on web projects
 
 
