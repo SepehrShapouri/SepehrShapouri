@@ -1,6 +1,6 @@
 
 A dedicated software engineer,thrilled to learn and contribute!<br/>
-🔭 I’m currently mastering Next.js<br>🧑🏽‍💻 I’m looking to collaborate on web projects.
+🔭 I’m currently mastering Next.js alongside with typescript, incredible match!<br>🧑🏽‍💻 I’m looking to collaborate on web projects.
 
 
 ## 🌐 Socials:
