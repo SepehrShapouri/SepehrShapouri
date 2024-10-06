@@ -10,6 +10,7 @@ Dedicated front-end developer with expertise in TypeScript, Next.js, React.js, a
 # 🐟 Stats lookin good:
 [![GitHub Streak](https://streak-stats.demolab.com?user=sepehrshapouri&theme=tokyonight-duo&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=76%2C005665%2C340067)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=sepehrshapouri&show_icons=true&hide_border=true&theme=radical&bg_color=76,005665,340067&rank_icon=github)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrshapouri&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 
 ```txt
