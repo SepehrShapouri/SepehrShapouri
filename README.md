@@ -12,6 +12,15 @@ Dedicated front-end developer with expertise in TypeScript, Next.js, React.js, a
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrshapouri&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api?username=sepehrshapouri&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   13 hrs 20 mins  ████████████████████░░░░░   79.64 %
+CSS          1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+JavaScript   1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+Bash         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Prisma       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+```
+
 <!--END_SECTION:waka-->
 ## 🏆 Them trophies
 ![](https://github-profile-trophy.vercel.app/?username=sepehrshapouri&theme=radical&no-frame=true&no-bg=false&margin-w=4)
