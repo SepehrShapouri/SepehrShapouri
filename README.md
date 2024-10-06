@@ -11,7 +11,6 @@ Dedicated front-end developer with expertise in TypeScript, Next.js, React.js, a
 ![](https://github-readme-stats.vercel.app/api?username=sepehrshapouri&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sepehrshapouri&theme=radical&hide_border=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrshapouri&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sepehrshapouri&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
