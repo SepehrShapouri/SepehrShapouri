@@ -13,9 +13,11 @@ Dedicated front-end developer with expertise in TypeScript, Next.js, React.js, a
 # 🐟 Stats lookin good
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sepehrshapouri&theme=gotham&hide_border=false" alt="GitHub Streak" /></a>
+  <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=sepehrshapouri&show_icons=true&hide_border=false&theme=gotham&rank_icon=github" alt="Github Stats"/>
   </a>
+  <br/>
   <a href="(https://github.com/anuraghazra/github-readme-stats)">
     <img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrshapouri&layout=compact&hide_border=false&theme=gotham"/>
   </a>
