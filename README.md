@@ -16,7 +16,7 @@ Dedicated front-end developer with expertise in TypeScript, Next.js, React.js, a
 ![](https://github-profile-trophy.vercel.app/?username=sepehrshapouri&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sepehrshapouri&icon=1&color=9)](https://visitcount.itsvg.in)
