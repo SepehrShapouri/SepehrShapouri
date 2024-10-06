@@ -25,9 +25,10 @@ Prisma       6 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrshapouri&layout=donut&hide_border=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-## 🏆 Them trophies
-![](https://github-profile-trophy.vercel.app/?username=sepehrshapouri&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+<hr/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrshapouri&layout=donut&hide_border=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)![](https://github-profile-trophy.vercel.app/?username=sepehrshapouri&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+
 
 
 
