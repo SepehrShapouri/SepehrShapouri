@@ -23,7 +23,7 @@ Prisma       6 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 ## 🏆 Them trophies
-![](https://github-profile-trophy.vercel.app/?username=sepehrshapouri&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sepehrshapouri&theme=discord_old_blurple&no-frame=true&no-bg=false&margin-w=4)
 
 
 
