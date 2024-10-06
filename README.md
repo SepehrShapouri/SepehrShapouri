@@ -11,6 +11,8 @@ Dedicated front-end developer with expertise in TypeScript, Next.js, React.js, a
 [![GitHub Streak](https://streak-stats.demolab.com?user=sepehrshapouri&theme=tokyonight-duo&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=76%2C005665%2C340067)](https://git.io/streak-stats)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrshapouri&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api?username=sepehrshapouri&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ## 🏆 Them trophies
 ![](https://github-profile-trophy.vercel.app/?username=sepehrshapouri&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
