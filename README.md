@@ -10,7 +10,7 @@ Dedicated front-end developer with expertise in TypeScript, Next.js, React.js, a
 # 🐟 Stats lookin good:
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sepehrshapouri&theme=discord-old-blurple&hide_border=true" alt="GitHub Streak" /></a>
 ![](https://github-readme-stats.vercel.app/api?username=sepehrshapouri&show_icons=true&hide_border=true&theme=discord_old_blurple&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrshapouri&layout=donut&hide_border=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrshapouri&layout=donut&hide_border=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 
 ```txt
