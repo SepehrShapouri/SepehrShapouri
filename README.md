@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Sepehr shapouri</h1>
-Dedicated front-end developer with expertise in TypeScript, Next.js, React.js, and JavaScript, passionate about<br>transforming ideas into high-quality digital products and contributing to various open-source projects
+Dedicated front-end developer with expertise in TypeScript, Next.js, React.js, and JavaScript, passionate about<br>transforming ideas into high-quality digital products and contributing to various open-source projects.
 </div>
 
 ## 🌐 Where to find me
