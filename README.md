@@ -27,11 +27,11 @@ Dedicated front-end developer with expertise in TypeScript, Next.js, React.js, a
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    33 hrs 46 mins  ███████████████████████▓░   94.09 %
-Prisma        56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-JavaScript    36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-JSON          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-CSS           8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+TypeScript    29 hrs          ███████████████████████▒░   93.40 %
+Prisma        1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+JavaScript    28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+JSON          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+CSS           8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
