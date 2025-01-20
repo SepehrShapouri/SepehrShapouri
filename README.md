@@ -27,11 +27,11 @@ Dedicated front-end developer with expertise in TypeScript, Next.js, React.js, a
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    17 hrs 46 mins  ███████████░░░░░░░░░░░░░░   43.43 %
-Vue.js        17 hrs 12 mins  ██████████▓░░░░░░░░░░░░░░   42.05 %
-SCSS          1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-JSON          1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-Bash          52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+TypeScript    15 hrs 14 mins  ███████████░░░░░░░░░░░░░░   43.61 %
+Vue.js        14 hrs 39 mins  ██████████▒░░░░░░░░░░░░░░   41.95 %
+JSON          1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Bash          56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+PHP           52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
 ```
 
 <!--END_SECTION:waka-->
